@@ -15,7 +15,7 @@ A beautiful, interactive birthday website featuring animated hearts, blooming fl
 
 <img src="bday.png" alt="Birthday Website Preview">
 
-**Live Demo**: [View the website in action]  gh repo clone freyayennefer/brday.website
+**Live Demo**: [View the website in action]  https://github.com/freyayennefer/brday.website.git
 
 ## Project Structure
 
