@@ -15,7 +15,7 @@ A beautiful, interactive birthday website featuring animated hearts, blooming fl
 
 <img src="bday.png" alt="Birthday Website Preview">
 
-**Live Demo**: [View the website in action]  
+**Live Demo**: [View the website in action]  gh repo clone freyayennefer/brday.website
 
 ## Project Structure
 
@@ -41,7 +41,7 @@ bday.website/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rkruk/bday.website.git
+   gh repo clone freyayennefer/brday.website
    cd bday.website
    ```
 
